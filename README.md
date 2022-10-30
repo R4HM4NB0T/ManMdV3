@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/ba89874134b8b71478a0d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Yushino V3</h1>
+<h1 align="center">ManMdV3</h1>
 
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
@@ -11,7 +11,7 @@
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hyuura-Official/YushinoMdV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/R4HM4NB0T/ManMdV3)
 
 | BuildPack | LINK |
 |--------|--------|
